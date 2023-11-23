@@ -1,0 +1,10 @@
+.sneakers{
+    background-image: url("img/sneakers.png");
+    height: 50vh;
+    width: 80%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+input{
+    width: 400px;
+}
